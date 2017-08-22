@@ -6,10 +6,9 @@
 
 ### Features
 
-* Super light-weight (only 71KB) 😄
-* Instantly get the classic GitHub look (white header) 🏳️
-* Always updating! 🙌
-* No user permissions needed! 🎉
+* Super light-weight (only 21KB!) 🙌
+* Instantly get the classic GitHub look (white header) 🔳
+* Always updating! 🎉
 
 ### Screenshot
 
