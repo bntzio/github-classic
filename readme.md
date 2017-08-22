@@ -1,4 +1,4 @@
-<p align="center"><img width="125" style="border-radius:100%" src="https://github.com/bntzio/github-classic/blob/master/assets/icon_128.png?raw=true"></p>
+<p align="center"><img width="125" src="https://github.com/bntzio/github-classic/blob/master/logo.png?raw=true"></p>
 
 <h1 align="center">GitHub Classic</h1>
 
