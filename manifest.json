@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "GitHub Classic",
+  "version": "0.1.0",
+  "description": "Chrome extension to return to the classic GitHub look",
+  "minimum_chrome_version": "26",
+  "content_scripts": [
+    {
+      "matches": [
+        "*://github.com/*",
+        "*://*.github.com/*"
+      ],
+      "css": [
+        "src/styles.css"
+      ],
+      "js": [
+        "src/content.js"
+      ],
+      "run_at": "document_start"
+    }
+  ]
+}
