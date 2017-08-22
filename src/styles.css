@@ -1,1 +1,66 @@
-/* styles here */
+/* header */
+header.Header {
+  background-color: #f5f5f5;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+/* header nav links */
+header.Header .HeaderNavlink {
+  color: #323232;
+}
+header.Header .HeaderNavlink:hover,
+header.Header .HeaderNavlink:focus {
+  color: #4078c0;
+}
+
+/* notification indicator */
+header.Header .notification-indicator {
+  color: #323232;
+}
+header.Header .notification-indicator:hover,
+header.Header .notification-indicator:focus {
+  color: #4078c0;
+}
+
+/* github logo */
+header.Header .header-logo-invertocat {
+  color: #323232;
+}
+header.Header .header-logo-invertocat:hover {
+  color: #4078c0;
+}
+
+/* header search bar */
+header.Header .header-search-wrapper {
+  background-color: white;
+  color: #323232;
+  padding: 1.2px 0 1.2px 1.2px;
+  border: 1px solid #e4e4e4;
+}
+header.Header .header-search-wrapper.focus .header-search-scope {
+  color: #586069;
+}
+header.Header .header-search-scope {
+  background-color: #f5f5f5;
+  color: #586069;
+  border-right: none;
+  border-radius: 3px;
+}
+header.Header .header-search-scope:hover {
+  color: #586069;
+}
+header.Header .header-search-input::-webkit-input-placeholder {
+  color: #c3c3c3;
+}
+header.Header .header-search-input:focus {
+  background-color: white;
+}
+
+/* dropdown carets */
+header.Header .HeaderNavlink .dropdown-caret {
+  border-top-color: #323232;
+}
+header.Header .HeaderNavlink:hover .dropdown-caret,
+header.Header .HeaderNavlink:focus .dropdown-caret {
+  border-top-color: #4078c0;
+}
