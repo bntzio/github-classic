@@ -64,3 +64,8 @@ header.Header .HeaderNavlink:hover .dropdown-caret,
 header.Header .HeaderNavlink:focus .dropdown-caret {
   border-top-color: #4078c0;
 }
+
+/* notification unread icon */
+header.Header .mail-status.unread {
+  border: none;
+}
