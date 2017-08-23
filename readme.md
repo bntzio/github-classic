@@ -10,6 +10,8 @@
 * Instantly get the classic GitHub look (white header) 🔳
 * Always updating! 🎉
 
-### Screenshot
+### Screenshots
 
-![GitHub Classic](screenshot.png)
+![GitHub](screenshot.png)
+
+![Gist](screenshot2.png)
